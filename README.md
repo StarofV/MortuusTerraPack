@@ -1,1 +1,1 @@
-"# MortuusTerraPack" 
+MortuusTerraPack is a custom texture pack created by ThePythonDoge to work with the Mortuus Terra plugin.
